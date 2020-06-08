@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg string="C:\Users\User\Downloads\PathOfBuilding-1.4.53/Builds/3.10 IntelliJ PROJECT Pathfinder Theorycraft.xml"/>
+		<Arg string="3.10 IntelliJ PROJECT Pathfinder Theorycraft"/>
+	</Mode>
+	<Accounts lastAccountName="justniice" lastRealm="PC">
+		<Account accountName="justniice"/>
+	</Accounts>
+	<SharedItems>
+		<Item>
+			Rarity: RARE
+Physical Dagger
+Ambusher
+Crafted: true
+Prefix: LocalIncreasedPhysicalDamagePercent5
+Prefix: LocalIncreasedPhysicalDamagePercentAndAccuracyRating5
+Prefix: LocalAddedPhysicalDamage6
+Suffix: LocalIncreasedAttackSpeed3
+Suffix: LocalCriticalStrikeChance3
+Suffix: LocalCriticalMultiplier4
+Quality: 20
+LevelReq: 60
+Implicits: 1
+30% increased Global Critical Strike Chance
+172% increased Physical Damage
+Adds 15 to 28 Physical Damage
+12% increased Attack Speed
+22% increased Critical Strike Chance
++27% to Global Critical Strike Multiplier
++74 to Accuracy Rating
+		</Item>
+	</SharedItems>
+	<Misc showThousandsCalcs="false" showThousandsSidebar="false" nodePowerTheme="RED/BLUE" showTitlebarName="true" buildSortMode="NAME"/>
+</PathOfBuilding>
